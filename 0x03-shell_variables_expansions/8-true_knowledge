@@ -1,0 +1,4 @@
+#!/bin/bash
+export TRUEKNOWLEDGE
+expr 128 + TRUEKNOWLEDGE
+
